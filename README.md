@@ -1,6 +1,6 @@
-# ReactNative Stocks
+# Stocka
 
-ReactNative Stocks is a powerful mobile application designed to provide real-time stock market insights using React Native. This app integrates seamlessly with Twelve Data API and NewsAPI to deliver live stock prices, recent trends, and related news directly to your fingertips.
+Stocka is a powerful mobile application designed to provide real-time stock market insights using React Native. This app integrates seamlessly with Twelve Data API and NewsAPI to deliver live stock prices, recent trends, and related news directly to your fingertips.
 
 ## Features
 
